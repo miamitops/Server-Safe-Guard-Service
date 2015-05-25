@@ -1,0 +1,29 @@
+Scanning /var/www/html/ray/index.php
+/var/www/html/ray/index.php: OK
+Scanning /var/www/html/ray/dictionnaire.php
+/var/www/html/ray/dictionnaire.php: OK
+Scanning /var/www/html/ray/ukwords.txt
+/var/www/html/ray/ukwords.txt: OK
+Scanning /var/www/html/ray/entree.php
+/var/www/html/ray/entree.php: OK
+Scanning /var/www/html/ray/anagrammes.php
+/var/www/html/ray/anagrammes.php: OK
+Scanning /var/www/html/ray/action.php
+/var/www/html/ray/action.php: OK
+Scanning /var/www/html/ray/style.css
+/var/www/html/ray/style.css: OK
+Scanning /var/www/html/ray/chargeur.php
+/var/www/html/ray/chargeur.php: OK
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3795432
+Engine version: 0.98.6
+Scanned directories: 1
+Scanned files: 8
+Infected files: 0
+Data scanned: 1.04 MB
+Data read: 0.52 MB (ratio 2.01:1)
+Time: 6.250 sec (0 m 6 s)
+('Server connected by', ('192.168.0.132', 52942))
+('Server connected by', ('192.168.0.132', 52943))
+scan was successful

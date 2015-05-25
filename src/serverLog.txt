@@ -1,0 +1,304 @@
+
+ Server connected by ('192.168.0.132', 52623)
+total 34
+drwx------ 1 user user 4096 Apr 26 17:21 .
+drwx------ 1 user user 4096 Apr 23 13:50 ..
+drwx------ 1 user user    0 Apr 24 16:28 antivirus
+drwx------ 1 user user    0 Apr 23 13:54 backup
+-rwxrwxrwx 1 user user 2392 Apr 26 17:32 client.py
+-rwxrwxrwx 1 user user  169 Apr 24 16:55 config.ini
+drwx------ 1 user user 4096 Apr 24 17:00 configuration
+-rwxrwxrwx 1 user user  745 Apr 24 19:14 conftest.py
+drwx------ 1 user user    0 Apr 23 13:55 filesmod
+drwx------ 1 user user 4096 Apr 24 16:24 maintenance
+-rwxrwxrwx 1 user user  507 Apr 23 22:56 new.txt
+drwx------ 1 user user    0 Apr 24 19:10 rdb
+-rwxrwxrwx 1 user user   47 Apr 26 17:34 serverLog.txt
+-rwxrwxrwx 1 user user 1521 Apr 26 17:33 server.py
+-rwxrwxrwx 1 user user 1464 Apr 26 01:19 start.py
+
+ Server connected by ('192.168.0.132', 52685)
+
+ Server connected by ('192.168.0.132', 52686)
+
+ Server connected by ('127.0.0.1', 48591)
+
+ Server connected by ('192.168.0.132', 52688)
+
+ Server connected by ('192.168.0.132', 52689)
+
+ Server connected by ('192.168.0.132', 52690)
+
+ Server connected by ('192.168.0.132', 52691)
+
+ Server connected by ('192.168.0.132', 52692)
+
+ Server connected by ('192.168.0.132', 52693)
+
+ Server connected by ('192.168.0.132', 52694)
+total 45
+drwx------ 1 user user 4096 Apr 26 18:11 .
+drwx------ 1 user user 4096 Apr 23 13:50 ..
+drwx------ 1 user user    0 Apr 24 16:28 antivirus
+drwx------ 1 user user    0 Apr 23 13:54 backup
+-rwxrwxrwx 1 user user 3378 Apr 26 18:39 client.py
+-rwxrwxrwx 1 user user 2007 Apr 26 18:09 client.pyc
+-rwxrwxrwx 1 user user  169 Apr 24 16:55 config.ini
+drwx------ 1 user user 4096 Apr 24 17:00 configuration
+-rwxrwxrwx 1 user user  745 Apr 24 19:14 conftest.py
+drwx------ 1 user user    0 Apr 23 13:55 filesmod
+drwx------ 1 user user 4096 Apr 24 16:24 maintenance
+-rwxrwxrwx 1 user user  507 Apr 23 22:56 new.txt
+drwx------ 1 user user    0 Apr 24 19:10 rdb
+-rwxrwxrwx 1 user user 1272 Apr 26 18:39 serverLog.txt
+-rwxrwxrwx 1 user user 1857 Apr 26 18:10 server.py
+-rwxrwxrwx 1 user user 1581 Apr 26 18:11 server.pyc
+-rwxrwxrwx 1 user user 1880 Apr 26 18:08 start.py
+
+ Server connected by ('192.168.0.132', 52695)
+
+ Server connected by ('192.168.0.132', 52696)
+
+ Server connected by ('192.168.0.132', 52697)
+
+ Server connected by ('192.168.0.132', 52698)
+
+ Server connected by ('192.168.0.132', 52699)
+
+ Server connected by ('192.168.0.132', 52700)
+
+ Server connected by ('192.168.0.132', 52702)
+
+ Server connected by ('192.168.0.132', 52703)
+
+ Server connected by ('192.168.0.132', 52704)
+
+ Server connected by ('192.168.0.132', 52705)
+
+ Server connected by ('192.168.0.132', 52706)
+
+ Server connected by ('192.168.0.132', 52707)
+
+ Server connected by ('192.168.0.132', 52708)
+
+ Server connected by ('192.168.0.132', 52709)
+
+ Server connected by ('192.168.0.132', 52835)
+
+ Server connected by ('192.168.0.132', 52836)
+
+ Server connected by ('192.168.0.132', 52837)
+
+ Server connected by ('192.168.0.132', 52838)
+
+ Server connected by ('192.168.0.132', 52839)
+
+ Server connected by ('192.168.0.132', 52840)
+
+ Server connected by ('192.168.0.132', 52841)
+
+ Server connected by ('192.168.0.132', 52842)
+
+ Server connected by ('192.168.0.132', 52843)
+
+ Server connected by ('192.168.0.132', 52844)
+
+ Server connected by ('192.168.0.132', 52845)
+
+ Server connected by ('192.168.0.132', 52846)
+
+ Server connected by ('192.168.0.132', 52847)
+
+ Server connected by ('192.168.0.132', 52848)
+
+ Server connected by ('192.168.0.132', 52849)
+
+ Server connected by ('192.168.0.132', 52850)
+
+ Server connected by ('192.168.0.132', 52851)
+
+ Server connected by ('192.168.0.132', 52852)
+
+ Server connected by ('192.168.0.132', 52853)
+
+ Server connected by ('192.168.0.132', 52854)
+
+ Server connected by ('192.168.0.132', 52855)
+
+ Server connected by ('192.168.0.132', 52922)
+
+ Server connected by ('192.168.0.132', 52923)
+
+ Server connected by ('192.168.0.132', 52924)
+
+ Server connected by ('192.168.0.132', 52925)
+
+ Server connected by ('192.168.0.132', 52926)
+
+ Server connected by ('192.168.0.132', 52927)
+
+ Server connected by ('192.168.0.132', 52928)
+
+ Server connected by ('192.168.0.132', 52929)
+
+ Server connected by ('192.168.0.132', 52931)
+
+ Server connected by ('192.168.0.132', 52932)
+
+ Server connected by ('192.168.0.132', 52933)
+
+ Server connected by ('192.168.0.132', 52934)
+
+ Server connected by ('192.168.0.132', 52935)
+
+ Server connected by ('192.168.0.132', 52936)
+
+ Server connected by ('192.168.0.132', 52937)
+
+ Server connected by ('192.168.0.132', 52938)
+
+ Server connected by ('192.168.0.132', 52939)
+
+ Server connected by ('192.168.0.132', 52940)
+
+ Server connected by ('192.168.0.132', 52941)
+
+ Server connected by ('192.168.0.132', 52942)
+
+ Server connected by ('192.168.0.132', 52943)
+
+ Server connected by ('127.0.0.1', 52244)
+
+ Server connected by ('127.0.0.1', 52245)
+
+ Server connected by ('127.0.0.1', 52246)
+
+ Server connected by ('127.0.0.1', 52247)
+
+ Server connected by ('127.0.0.1', 52248)
+
+ Server connected by ('127.0.0.1', 52249)
+
+ Server connected by ('127.0.0.1', 52376)
+
+ Server connected by ('127.0.0.1', 52377)
+
+ Server connected by ('127.0.0.1', 52497)
+
+ Server connected by ('127.0.0.1', 52498)
+
+ Server connected by ('127.0.0.1', 52499)
+
+ Server connected by ('127.0.0.1', 52500)
+
+ Server connected by ('127.0.0.1', 52508)
+
+ Server connected by ('127.0.0.1', 52509)
+
+ Server connected by ('127.0.0.1', 52512)
+
+ Server connected by ('127.0.0.1', 52513)
+
+ Server connected by ('127.0.0.1', 52514)
+
+ Server connected by ('127.0.0.1', 52515)
+
+ Server connected by ('127.0.0.1', 52516)
+
+ Server connected by ('127.0.0.1', 52517)
+
+ Server connected by ('127.0.0.1', 52518)
+
+ Server connected by ('127.0.0.1', 52519)
+
+ Server connected by ('127.0.0.1', 52524)
+
+ Server connected by ('127.0.0.1', 52525)
+
+ Server connected by ('127.0.0.1', 52536)
+
+ Server connected by ('127.0.0.1', 52537)
+
+ Server connected by ('127.0.0.1', 52548)
+
+ Server connected by ('127.0.0.1', 52549)
+
+ Server connected by ('127.0.0.1', 52551)
+
+ Server connected by ('127.0.0.1', 52552)
+
+ Server connected by ('127.0.0.1', 52554)
+
+ Server connected by ('127.0.0.1', 52555)
+
+ Server connected by ('127.0.0.1', 52594)
+
+ Server connected by ('127.0.0.1', 52595)
+
+ Server connected by ('127.0.0.1', 52599)
+
+ Server connected by ('127.0.0.1', 52600)
+
+ Server connected by ('127.0.0.1', 52608)
+
+ Server connected by ('127.0.0.1', 52609)
+
+ Server connected by ('127.0.0.1', 52612)
+
+ Server connected by ('127.0.0.1', 52613)
+
+ Server connected by ('127.0.0.1', 52615)
+
+ Server connected by ('127.0.0.1', 52616)
+
+ Server connected by ('127.0.0.1', 52678)
+
+ Server connected by ('127.0.0.1', 52679)
+
+ Server connected by ('127.0.0.1', 52680)
+
+ Server connected by ('127.0.0.1', 52681)
+
+ Server connected by ('127.0.0.1', 52682)
+
+ Server connected by ('127.0.0.1', 52683)
+
+ Server connected by ('127.0.0.1', 52684)
+
+ Server connected by ('127.0.0.1', 52685)
+
+ Server connected by ('127.0.0.1', 52688)
+
+ Server connected by ('127.0.0.1', 52689)
+
+ Server connected by ('127.0.0.1', 52690)
+
+ Server connected by ('127.0.0.1', 52691)
+
+ Server connected by ('127.0.0.1', 52705)
+
+ Server connected by ('127.0.0.1', 52706)
+
+ Server connected by ('127.0.0.1', 48469)
+
+ Server connected by ('127.0.0.1', 48470)
+
+ Server connected by ('127.0.0.1', 48472)
+
+ Server connected by ('127.0.0.1', 48473)
+
+ Server connected by ('127.0.0.1', 48476)
+
+ Server connected by ('127.0.0.1', 48477)
+
+ Server connected by ('127.0.0.1', 48495)
+
+ Server connected by ('127.0.0.1', 48496)
+
+ Server connected by ('127.0.0.1', 48499)
+
+ Server connected by ('127.0.0.1', 48500)
+
+ Server connected by ('127.0.0.1', 48504)
+
+ Server connected by ('127.0.0.1', 48505)
